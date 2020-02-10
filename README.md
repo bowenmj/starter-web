@@ -17,3 +17,7 @@ Even more text.
 ## How to Contribute
 
 Last bit of text.
+
+## Copyright
+
+2020 Git training
