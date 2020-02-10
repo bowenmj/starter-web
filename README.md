@@ -12,4 +12,8 @@ More text.
 
 ## Deployment
 
+Even more text.
+
 ## How to Contribute
+
+Last bit of text.
