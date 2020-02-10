@@ -8,6 +8,8 @@ This is more text.
 
 ## Purpose
 
+More text.
+
 ## Deployment
 
 ## How to Contribute
