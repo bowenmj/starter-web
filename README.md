@@ -16,7 +16,7 @@ Even more text.
 
 ## How to Contribute
 
-Last bit of text.
+This is some changed text.
 
 ## Copyright
 
